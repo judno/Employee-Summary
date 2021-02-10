@@ -1,0 +1,12 @@
+.card-header {
+  background-color: rgba(32, 8, 245, 0.335);
+  color: azure;
+}
+.team-heading {
+  background-color: rgba(32, 8, 245, 0.335);
+  color: azure;
+}
+* {
+  font-family: "Concert One", cursive;
+  font-weight: bold;
+}
