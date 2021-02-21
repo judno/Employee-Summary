@@ -23,3 +23,7 @@ once complete these will be added to a html document and upon opening the html w
 ## Demo Video
 
 [Watch demo here](https://drive.google.com/file/d/1lMDJ4dXxHIO5N6ZYaS4lYXWfZvuMh6qP/view?usp=sharing)
+ 
+## Screenshot of CLI
+
+<img width="429" alt="EMPLOYYEESCREENSHOT" src="https://user-images.githubusercontent.com/69154965/108614931-121e1100-7453-11eb-89ae-d02b9e87f16d.png">
